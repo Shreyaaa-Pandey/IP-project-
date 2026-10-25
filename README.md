@@ -19,11 +19,6 @@ Visualize JavaScript execution step-by-step using AST instrumentation, sandboxed
 </p>
 
 ---
-
-## 🎬 Live Demo
-
-### Link : [logic-lens](https://logic-lens-sigma.vercel.app/)
-
 ---
 
 </div>
